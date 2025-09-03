@@ -1,0 +1,1 @@
+# API for `ulapp`. A smart classification app to determine which day is best day for laundry
